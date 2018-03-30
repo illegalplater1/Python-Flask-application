@@ -10,7 +10,7 @@ def Articles():
         },
         {
             'id':2,
-            'title':'Article one',
+            'title':'Article two ',
             'body':'sdfsdf',
             'sdfsdf':'sdfsdf',
             'sdf':'sdfsdf'
@@ -18,7 +18,7 @@ def Articles():
         },
         {
             'id':3,
-            'title':'Article one',
+            'title':'Article Three',
             'body':'sdfsdf',
             'sdfsdf':'sdfsdf',
             'sdf':'sdfsdf'
